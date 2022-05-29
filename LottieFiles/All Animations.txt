@@ -1,0 +1,1 @@
+This streamlit_lottie contains all the important libraries in order to get animations in the web app.
