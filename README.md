@@ -1,5 +1,12 @@
-# MoviFY-Engage-2022-Project / Microsoft Engage 2022: Algorithms 
-## MoviFY - A Movie Recommendation System Engine 
+<br/>
+
+## Submission for Microsoft Engage 2022: Algorithms 
+
+![image001](https://user-images.githubusercontent.com/79754424/167501435-3fea72dd-0e81-4bc3-bb7a-1ca85a715d49.jpg)
+<br/>
+
+
+# `MoviFY` -  The Movie Recommendation System Engine 
 
 ### Overview:
 **MoviFY:** An online movie recommender web app based on the concept of **Cosine Similarity** , **Matrix Vectorization Method** and **Sorting ALGO**. It first calculate all the similarity scores of the Movies from the Datasets and API{tMDB] and then recommends movies to the user in app.
