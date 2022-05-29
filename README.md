@@ -7,8 +7,8 @@ Where similarity score is a numerical value ranges between zero to one which hel
 All the details of the movies (title, genre, runtime, rating, images, etc) are fetched using an API by TMDB as well as from the TMDB datasets.
 
 ## Important Links:
-GitHub Repository URL: https://github.com/kshitiz-patel/Microsoft-Engage-Algorithms <br/>
-Video Demo: https://youtu.be/DvFyBJbeyoE<br/>
+GitHub Repository URL: https://github.com/sangraaradhya12/MoviFY-Engage-2022-Project <br/>
+Presentation Report  :    <br/>
 
 ## Functions & Features:
 
@@ -30,15 +30,27 @@ password : 123
  6. Cross Platform & Responsive - The site works and looks pretty and have a easy to use , understand and smooth workflow patterns.
  
  7. Gives good recommendations on Datasets used and provides all the information regarding the movies.
- 8. 
+ 
+ 8. Rating Level is there to rate the movie(s), one had watched. 
+ 
+ 9. Search for Movies based on different keywords(Titles,Genres,Actors,Directors etc.)
+ 
+ 10. One can also add movie to the watchlist section.
+ 
+ ## Technologies / Libraries Used :
+ ### Main Language : <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+ 
+ ### Client : Streamlit
+ ### Backend-Server : Numpy , Pandas , Scikit-learn
+ ### Files : Jupyter-Notebooks
 
 ## Installation/Environment Setup:
 #### 1. Clone App
-  
+ ``` 
   * Clone or download this repository to your local machine.
-  
+ ``` 
 #### 2. Setting up the files
-
+ * Check whether all the files including(Jupyter-Notebooks) are installed correctly and are there in the data file .
 
 #### 3. Install Requirements.txt
 * Install all the libraries mentioned in the [requirements.txt]
@@ -57,5 +69,5 @@ streamlit run vers1.py
 * Now its done, just Go to your browser and type the following URL in the address bar and you are good to go.
 
 ``` 
-   http:// localhost:
+   http:// localhost:8501
 ```
